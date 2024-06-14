@@ -1,1 +1,1 @@
-homeassistant/home-assistant:2024.6  registry.cn-hangzhou.aliyuncs.com/xgguo_repository/home-assistant:2024.6
+enmotech/opengauss  registry.cn-hangzhou.aliyuncs.com/xgguo_repository/enmotech/opengauss
