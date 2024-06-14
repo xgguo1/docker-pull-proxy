@@ -1,1 +1,1 @@
-mysql  registry.cn-hangzhou.aliyuncs.com/xgguo_repository/mysql
+postgres  registry.cn-hangzhou.aliyuncs.com/xgguo_repository/postgres
