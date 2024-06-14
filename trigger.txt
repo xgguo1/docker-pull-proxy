@@ -1,1 +1,1 @@
-enmotech/opengauss  registry.cn-hangzhou.aliyuncs.com/xgguo_repository/enmotech/opengauss
+nginx  registry.cn-hangzhou.aliyuncs.com/xgguo_repository/nginx
