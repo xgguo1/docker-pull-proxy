@@ -1,1 +1,1 @@
-gitlab/gitlab-ce  registry.cn-hangzhou.aliyuncs.com/xgguo_repository/gitlab/gitlab-ce
+wurstmeister/kafka  registry.cn-hangzhou.aliyuncs.com/xgguo_repository/wurstmeister/kafka
