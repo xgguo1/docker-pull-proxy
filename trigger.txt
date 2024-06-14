@@ -1,1 +1,1 @@
-wurstmeister/kafka  registry.cn-hangzhou.aliyuncs.com/xgguo_repository/wurstmeister/kafka
+mysql  registry.cn-hangzhou.aliyuncs.com/xgguo_repository/mysql
