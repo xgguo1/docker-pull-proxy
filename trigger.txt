@@ -1,1 +1,1 @@
-nginx  registry.cn-hangzhou.aliyuncs.com/xgguo_repository/nginx
+gitlab/gitlab-ce  registry.cn-hangzhou.aliyuncs.com/xgguo_repository/gitlab/gitlab-ce
