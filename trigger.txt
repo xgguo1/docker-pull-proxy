@@ -1,1 +1,1 @@
-sonarqube  registry.cn-hangzhou.aliyuncs.com/xgguo_repository/sonarqube
+rustdesk/rustdesk-server  registry.cn-hangzhou.aliyuncs.com/xgguo_repository/rustdesk/rustdesk-server
