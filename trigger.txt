@@ -1,1 +1,1 @@
-rustdesk-server  registry.cn-hangzhou.aliyuncs.com/xgguo_repository/rustdesk-server
+rustdesk  registry.cn-hangzhou.aliyuncs.com/xgguo_repository/rustdesk
